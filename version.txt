@@ -1,2 +1,2 @@
-1.0.1
-https://github.com/AAMOROS-lab/UPDATE/blob/main/setup.exe
+1.0.2
+https://github.com/AAMOROS-lab/UPDATE/blob/main/setup%201.0.2.exe
