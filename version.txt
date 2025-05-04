@@ -1,2 +1,2 @@
-1.0.1
+1.0.0
 https://github.com/ton-dépôt/releases/download/v1.0.1/installateur.exe
