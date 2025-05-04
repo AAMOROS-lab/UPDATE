@@ -1,2 +1,2 @@
-1.0.0
-https://github.com/ton-dépôt/releases/download/v1.0.1/installateur.exe
+1.0.1
+https://github.com/AAMOROS-lab/UPDATE/blob/main/setup.exe
