@@ -1,2 +1,1 @@
-1.0.2
-https://github.com/AAMOROS-lab/UPDATE/releases/download/release/setupV1.0.2.exe
+1.0.1
