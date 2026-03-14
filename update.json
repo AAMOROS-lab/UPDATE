@@ -1,7 +1,7 @@
 {
     "version":  "1.0.4",
     "installer_name":  "CAPS-VQ-Setup-1.0.4.exe",
-    "installer_url":  "https://github.com/caps-international/caps-vq/releases/download/v1.0.4/CAPS-VQ-Setup-1.0.4.exe",
+    "installer_url":  "https://github.com/AAMOROS-lab/UPDATE/releases/download/v1.0.4/CAPS-VQ-Setup-1.0.4.exe",
     "sha256":  "5ee8d1914e937c1a5f201c2cf2cc84eef5549bed0364eccdc9b7339e2fe0c140",
     "silent_args":  [
                         "/VERYSILENT",
