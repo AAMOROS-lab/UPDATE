@@ -1,1 +1,2 @@
 1.0.5
+https://github.com/AAMOROS-lab/UPDATE/releases/download/v1.0.5/CAPS-VQ-Setup-1.0.5.exe
