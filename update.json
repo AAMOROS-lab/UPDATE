@@ -1,8 +1,8 @@
 {
-    "version":  "2.0.4",
-    "installer_name":  "CAPS-VQ-Setup-2.0.4.exe",
-    "installer_url":  "https://github.com/AAMOROS-lab/UPDATE/releases/download/v2.0.4/CAPS-VQ-Setup-2.0.4.exe",
-    "sha256":  "26020aa2745b767dd2694bb54b5b8dbcbdc7b87be8af98ed7cd364ac8101a709",
+    "version":  "2.0.5",
+    "installer_name":  "CAPS-VQ-Setup-2.0.5.exe",
+    "installer_url":  "https://github.com/AAMOROS-lab/UPDATE/releases/download/v2.0.5/CAPS-VQ-Setup-2.0.5.exe",
+    "sha256":  "98d72e2d118bab9ecd05cd63bdb651f3ee5405a8e478343bffbbc9ef6e1a14e2",
     "silent_args":  [
                         "/VERYSILENT",
                         "/SUPPRESSMSGBOXES",
